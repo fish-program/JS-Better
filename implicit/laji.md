@@ -36,3 +36,8 @@ b/index.js
 b/index.json
 这种implicit rules真的很讨厌
 
+## 连等于
+```
+const app = module.exports = new Koa();
+```
+谁能告诉我，为什么不能简简单单写plain code? 在这种地方浪费心智？
